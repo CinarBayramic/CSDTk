@@ -2,7 +2,7 @@
 
 ## if you are a developer and you are working on a project that unfortunately has one of my projects as a dependency this guide will hopefully make things easy for you.
 
-1)(**OPTIONAL**) run the following command depending on your operating system(you must be in the parent directory of the cloned project
+1) (**OPTIONAL**) run the following command depending on your operating system(you must be in the parent directory of the cloned project
 
 GNU: mv ./CSDTk/* ./
 WIN: move "./CSDTk/*" "./"
