@@ -5,6 +5,7 @@
 1) (**OPTIONAL**) run the following command depending on your operating system(you must be in the parent directory of the cloned project
 
 GNU: mv ./CSDTk/* ./
+
 WIN: move "./CSDTk/*" "./"
 
 2) run linux.bash if you are on linux or run windows.ps1 if you are on windows
